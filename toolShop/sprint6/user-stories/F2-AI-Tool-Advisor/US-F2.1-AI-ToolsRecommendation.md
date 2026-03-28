@@ -3,8 +3,7 @@ As a customer,
 I want an AI assistant to recommend tools for my project 
 so I find the optimal solution.
 
-
-# Accepatnce Criteria
+# Acceptance Criteria
 - Chat-style interface for user to describe project
 - AI asks clarifying questions if needed (skill level, budget)
 - Recommendations include 3-5 relevant tools with reasoning
