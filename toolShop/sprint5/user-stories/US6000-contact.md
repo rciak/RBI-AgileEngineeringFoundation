@@ -18,8 +18,8 @@ Given the user is on the contact UI
 When  the user filled out at least all mandatory fields
 And   clicks "Send" an e-mail will sent to the shop owner.
 
-ACC1: Contact link is displayed in the main menu
-ACC2: Fields are displayed: First Name / Last Name, EMail address, Subject / Message
-ACC3: If a mandatory field (marked with *) has no value then a error message must be dispalyed
-ACC4: Only valid E-Mail is accepted
-ACC5: Subject only allows values select from ListOfValue (Customer Service, Webmaster, General, Info)
+- ACC1: Contact link is displayed in the main menu
+- ACC2: Fields are displayed: First Name / Last Name, EMail address, Subject / Message
+- ACC3: If a mandatory field (marked with *) has no value then a error message must be dispalyed
+- ACC4: Only valid E-Mail is accepted
+- ACC5: Subject only allows values select from ListOfValue (Customer Service, Webmaster, General, Info)
