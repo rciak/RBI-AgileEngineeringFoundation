@@ -7,4 +7,4 @@ to enhance the platform's brand identity and visual appeal.
 # Acceptance Criteria:
 
 if the geo-location of the user is "China" the chinese logo should be displayed
-otherwise the the non-chines logo should be displayed.
+otherwise the the non-Chinese logo should be displayed.
